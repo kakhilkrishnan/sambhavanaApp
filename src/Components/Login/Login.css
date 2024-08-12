@@ -1,0 +1,22 @@
+.login-main-div {
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+  padding: 0px !important;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.selection-button{
+  width: 65%;
+  border-radius: 5px;
+  background-color: #ffffff;
+  font-weight: 500;
+  color: black;
+}
+
+.select-label{
+  font-weight: 600;
+  font-size: 15px;
+}
